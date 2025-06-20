@@ -17,12 +17,13 @@
     "body": "ᴢᴏʀᴀ-xᴍᴅ ᴍɪɴɪ",
     "newsletterJid": "120363419758018259@newsletter",
     "newsletterName": "ᴢᴏʀᴀ-xᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ ᴛᴇᴀᴍ 🧚🏻",
-    "cap": "*©️ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴢᴏʀᴀ-xᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️*",
+    "flooter": "*©️ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴢᴏʀᴀ-xᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️*",
     "thumbnailBuff": ""
   },
   "data_botSelf": {
     "gitHubRepo": "https://github.com/charithZz04/MRCK-MD",
-    "pairWeb": "https://mrck-pair-icv0.onrender.com/"
+    "pairWeb": "https://mrck-pair-icv0.onrender.com/",
+    "support": ""
   },
   "verifyId": {
     "groupRequire": true,
