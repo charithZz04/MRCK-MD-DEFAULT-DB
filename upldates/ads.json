@@ -1,6 +1,6 @@
 {
   "BOT_NAME": "ᴢᴏʀᴀ-xᴍᴅ",
-  "DBVERSION": "0.0.7",
+  "VERSION": "0.0.7",
   "DESC": "This project is created using node.js",
   "data_botOwn": {
     "developer": "94762695098",
