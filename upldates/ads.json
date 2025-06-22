@@ -1,7 +1,7 @@
 {
   "BOT_NAME": "ᴢᴏʀᴀ-xᴍᴅ",
   "VERSION": "0.0.7",
-  "DESC": "This project is created using node.js",
+  "DESC": "zora-xmd simple whatsapp bot project is created using javascript",
   "data_botOwn": {
     "developer": "94762695098",
     "specialCoOwners": ["947287568989", "94783462955", "94754015815", "94754425815", "94764544760"],
@@ -21,8 +21,8 @@
     "thumbnailBuff": ""
   },
   "data_botSelf": {
-    "gitHubRepo": "https://github.com/charithZz04/MRCK-MD",
-    "pairWeb": "https://mrck-pair-icv0.onrender.com/",
+    "gitHubRepo": "https://github.com/rikkqa43/Zora-xmd",
+    "pairWeb": "https://mrck-dev.onrender.com",
     "support": ""
   },
   "verifyId": {
@@ -35,5 +35,5 @@
     "botIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
     "cooldown": "2"
   },
-  "mainUpdate": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/upldates/temp.js"
+  "mainUpdate": "https://github.com/charithZz04/MRCK-MD-DEFAULT-DB/raw/refs/heads/main/upldates/checking.zip"
 }
