@@ -1,0 +1,9 @@
+{
+  "BOT_NAME": "MRCK-MD",
+  "VERSION": "1.0.0",
+  "CREATED BY": "charithKawinda",
+  "replyMsg": {
+    "dd": "ccc",
+    "cc": "dd"
+  }
+}
