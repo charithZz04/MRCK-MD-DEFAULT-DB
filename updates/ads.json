@@ -1,1 +1,44 @@
-
+{
+	"BOT_NAME": "ᴢᴏʀᴀ-xᴍᴅ",
+	"VERSION": "beta-beta-v4",
+	"DESC": "zora-xmd simple whatsapp bot project is created using javascript",
+	
+	"data_botOwn": {
+		"developer": "94762695098",
+		"specialCoOwners": ["94728756898", "94783462955", "94754015815", "94754425815", "94764544760"],
+		"detectOwn": ["👨🏻‍💻", "🦹🏻‍♂️"],
+		"bannedUser": ["94773576354"],
+		"premiumUser": ["94764544760"]
+	},
+	"data_botMedia": {
+		"logo": "https://github.com/charithZz04/MRCK-MD-DEFAULT-DB/blob/main/default.js/logo/zora-xmd-logo.png?raw=true",
+		"thumbnailUrl": "https://github.com/charithZz04/MRCK-MD-DEFAULT-DB/blob/main/default.js/logo/zora-xmd-thumbnail.jpeg?raw=true",
+		"sourceUrl": "https://tinyurl.com/mt37mnh7",
+		"title": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ",
+		"body": "ᴢᴏʀᴀ-xᴍᴅ ᴍɪɴɪ",
+		"newsletterJid": "120363419758018259@newsletter",
+		"newsletterName": "❊ ᴢᴏʀᴀ-xᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ ❊",
+		"flooter": "*❊ ᴢᴏʀᴀ-xᴍᴅ ᴍɪɴɪ-ᴡᴀ ❊*",
+		"thumbnailBuff": ""
+	},
+	"data_botSelf": {
+		"githubRepo": "https://github.com/rikkqa43/Zora-xmd",
+		"pairWeb": "https://mrck-pair-icv0.onrender.com/",
+		"support": "94783462955"
+	},
+	"verifyId": {
+		"groupRequire": true,
+		"groupRequireV2": false,
+		"channelRequire": false,
+		"groupJid": "120363417291472164",
+		"channelJid": "120363419758018259",
+		"groupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
+		"channelInvite": "https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42",
+		"botIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
+		"cooldown": "2"
+	},
+	"autoReply": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autoreply.txt",
+	"autoVoice": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/voicereply.txt",
+	"autoStcker": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autosticker.txt",
+	"mainUpdate": ""
+}
