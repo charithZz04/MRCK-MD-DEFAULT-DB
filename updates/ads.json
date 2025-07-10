@@ -29,7 +29,7 @@
 	"verifyId": {
 		"groupRequire": true,
 		"groupRequireV2": false,
-		"channelRequire": false,
+		"channelRequire": true,
 		"groupJid": "120363417291472164",
 		"channelJid": "120363419758018259",
 		"groupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
