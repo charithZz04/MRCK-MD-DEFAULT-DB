@@ -1,7 +1,7 @@
 {
-	"BOT_NAME": "ᴢᴏʀᴀ-xᴍᴅ",
+	"BOT_NAME": "ᴇᴀꜱʏ-ʙɪᴛᴢ",
 	"VERSION": "beta-beta-v4.1",
-	"DESC": "zora-xmd simple whatsapp bot project is created using javascript",
+	"DESC": "easY-bitz simple whatsapp bot project is created using javascript",
 	
 	"data_botOwn": {
 		"developer": "94762695098",
@@ -15,22 +15,22 @@
 		"thumbnailUrl": "https://github.com/charithZz04/MRCK-MD-DEFAULT-DB/blob/main/default.js/logo/zora-xmd-thumbnail.jpeg?raw=true",
 		"sourceUrl": "https://zora-x.onrender.com",
 		"title": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ",
-		"body": "ᴢᴏʀᴀ-xᴍᴅ ᴍɪɴɪ",
+		"body": "ᴇᴀꜱʏ-ʙɪᴛᴢ ᴍɪɴɪ",
 		"newsletterJid": "120363419758018259@newsletter",
-		"newsletterName": "❊ ᴢᴏʀᴀ-xᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ ❊",
-		"flooter": "*❊ ᴢᴏʀᴀ-xᴍᴅ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ❊*",
+		"newsletterName": "❊ ᴇᴀꜱʏ-ʙɪᴛᴢ ᴏꜰꜰɪᴄɪᴀʟ ❊",
+		"flooter": "*❊ ᴇᴀꜱʏ-ʙɪᴛᴢ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ❊*",
 		"thumbnailBuff": ""
 	},
 	"data_botSelf": {
 		"githubRepo": "https://github.com/rikkqa43/Zora-xmd",
-		"pairWeb": "https://zora-pair-web.onrender.com/",
-		"support": "94783462955"
+		"pairWeb": "https://zora-pair-web-4kbu.onrender.com/",
+		"support": "94754015815"
 	},
 	"verifyId": {
 		"groupRequire": true,
 		"groupRequireV2": false,
-		"channelRequire": true,
-		"cReact": true,
+		"channelRequire": false,
+		"cReact": false,
 		"cReacts": ["💚", "💙", "💗", "🩵", "🤍", "💜", "🤎", "💝", "🖤", "🩶", "❤️‍🩹", "🐝", "🌸", "💐", "🌈", "💫"],
 		"cReactChannels": ["120363419758018259", "120363385281017920"],
 		"groupJid": "120363417291472164",
