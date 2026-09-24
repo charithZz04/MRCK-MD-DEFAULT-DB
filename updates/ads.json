@@ -1,6 +1,6 @@
 {
 	"BOT_NAME": "ᴇᴀꜱʏ-ʙɪᴛᴢ",
-	"VERSION": "beta-beta-v4.1",
+	"VERSION": "1.0.0",
 	"DESC": "easY-bitz simple whatsapp bot project is created using javascript",
 	
 	"data_botOwn": {
@@ -42,5 +42,5 @@
 	},
 	"autoReply": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autoreply.txt",
 	"autoVoice": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/voicereply.txt",
-	"autoStcker": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autosticker.txt",
+	"autoStcker": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autosticker.txt"
 }
