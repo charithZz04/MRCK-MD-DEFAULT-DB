@@ -29,8 +29,8 @@
 	"verifyId": {
 		"groupRequire": true,
 		"groupRequireV2": false,
-		"channelRequire": false,
-		"cReact": false,
+		"channelRequire": true,
+		"cReact": true,
 		"cReacts": ["💚", "💙", "💗", "🩵", "🤍", "💜", "🤎", "💝", "🖤", "🩶", "❤️‍🩹", "🐝", "🌸", "💐", "🌈", "💫"],
 		"cReactChannels": ["120363411334149280", "120363385281017920"],
 		"groupJid": "120363417291472164",
