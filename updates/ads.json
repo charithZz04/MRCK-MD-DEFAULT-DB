@@ -16,7 +16,7 @@
 		"sourceUrl": "https://h1.nu/1yL5d",
 		"title": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ",
 		"body": "ᴇᴀꜱʏ-ʙɪᴛᴢ ᴍɪɴɪ",
-		"newsletterJid": "120363419758018259@newsletter",
+		"newsletterJid": "120363411334149280@newsletter",
 		"newsletterName": "❊ ᴇᴀꜱʏ-ʙɪᴛᴢ ᴏꜰꜰɪᴄɪᴀʟ ❊",
 		"flooter": "*❊ ᴇᴀꜱʏ-ʙɪᴛᴢ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ❊*",
 		"thumbnailBuff": ""
@@ -32,11 +32,11 @@
 		"channelRequire": false,
 		"cReact": false,
 		"cReacts": ["💚", "💙", "💗", "🩵", "🤍", "💜", "🤎", "💝", "🖤", "🩶", "❤️‍🩹", "🐝", "🌸", "💐", "🌈", "💫"],
-		"cReactChannels": ["120363419758018259", "120363385281017920"],
+		"cReactChannels": ["120363411334149280", "120363385281017920"],
 		"groupJid": "120363417291472164",
-		"channelJid": "120363419758018259",
+		"channelJid": "120363411334149280",
 		"groupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
-		"channelInvite": "https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42",
+		"channelInvite": "https://whatsapp.com/channel/0029VbEKU2cIN9iiefy5cV3v",
 		"botIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
 		"cooldown": "2"
 	},
