@@ -44,5 +44,5 @@
 	"autoVoice": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/voicereply.txt",
 	"autoStcker": "https://raw.githubusercontent.com/charithZz04/MRCK-MD-DEFAULT-DB/refs/heads/main/DATABASE/autosticker.txt",
 	"PUBLIC_URL": "https://easybitz-lk.onrender.com",
-	"CUSTOMPCODE": ""
+	"CUSTOMPCODE": "EASYBITZ"
 }
